@@ -10,6 +10,6 @@ Python [notebook](../../blob/main/uniprotkb_nlinked_sites.ipynb) for Google Cola
 
 ## 2. Bias in Germline Variants near N-linked Glycosylation Sites
 
-Python [notebook](../../blob/main/variants.ipynb) for Google Colab.
+Python [notebook](../../blob/main/occ_ratio_snv2glycosite.ipynb) for Google Colab.
 
 See also: Original [scripts](../../blob/main/variants_original.ipynb) run in the Google Colab environment.
